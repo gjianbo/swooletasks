@@ -1,0 +1,16 @@
+{
+    "name": "gjianbo/think6-tasks",
+    "description": "base thinkphp6.0 swoole server command extend",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gjianbo",
+            "email": "gjianbo@qq.com"
+        }
+    ],
+    "require": {
+        "topthink/think-swoole": "3.0"
+    },
+    "minimum-stability": "dev"
+}
